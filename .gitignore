@@ -1,0 +1,44 @@
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
+
+# Python dosyaları
+*.pyc
+*.pyo
+__pycache__/
+.ipynb_checkpoints/ # Eğer Jupyter Notebook kullanıyorsanız
+
+# Veri setleri (büyük dosyalar veya hassas veriler)
+dataset/
+*.xlsx
+*.json
+*.parquet
+
+# Model ağırlıkları ve sonuçları
+*.pkl
+*.h5
+*.joblib
+*.pth
+catboost_logs/*.tsv
+# Log dosyaları
+*.log
+
+# Ortam dosyaları (örneğin sanal ortamlar)
+venv/
+env/
+.env
+
+# Editör veya IDE özel dosyaları
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Optuna deneme veritabanı
+*.db
+
+# Çizilen grafikler veya görüntüler
+*.png
+*.jpg
+*.jpeg
+*.svg
