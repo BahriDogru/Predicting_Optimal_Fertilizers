@@ -125,4 +125,4 @@ To run this project on your local machine, follow these steps:
     This command will train the model, make predictions, and generate the `submission.csv` file.
 
 
-#### You can access the Kaggle Notebook I prepared for this competition via this [link]()
+#### You can access the Kaggle Notebook I prepared for this competition via this [link](https://www.kaggle.com/code/bahridgr/fertilizer-prediction-kaggle-competition)

@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f13ad93-58c8-42dc-b3d5-0fe44e1bcb7b" name="Changes" comment="Data preprocessing">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="3f13ad93-58c8-42dc-b3d5-0fe44e1bcb7b" name="Changes" comment="Data preprocessing" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,7 +89,7 @@
       <workItem from="1750448441883" duration="568000" />
       <workItem from="1750670184184" duration="17527000" />
       <workItem from="1750772799649" duration="88000" />
-      <workItem from="1750792935408" duration="11784000" />
+      <workItem from="1750792935408" duration="12810000" />
     </task>
     <task id="LOCAL-00001" summary="Data preprocessing">
       <option name="closed" value="true" />
