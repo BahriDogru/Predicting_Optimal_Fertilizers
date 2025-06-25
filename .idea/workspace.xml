@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f13ad93-58c8-42dc-b3d5-0fe44e1bcb7b" name="Changes" comment="">
+    <list default="true" id="3f13ad93-58c8-42dc-b3d5-0fe44e1bcb7b" name="Changes" comment="Data preprocessing">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -90,11 +90,26 @@
       <workItem from="1750360119969" duration="8090000" />
       <workItem from="1750369531584" duration="3089000" />
       <workItem from="1750448441883" duration="568000" />
-      <workItem from="1750670184184" duration="314000" />
+      <workItem from="1750670184184" duration="17527000" />
+      <workItem from="1750772799649" duration="88000" />
+      <workItem from="1750792935408" duration="11784000" />
     </task>
+    <task id="LOCAL-00001" summary="Data preprocessing">
+      <option name="closed" value="true" />
+      <created>1750670545543</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1750670545543</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Data preprocessing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Data preprocessing" />
   </component>
 </project>
