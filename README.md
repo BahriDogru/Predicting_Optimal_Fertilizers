@@ -4,7 +4,7 @@ Welcome to my solution for the **[Kaggle Playground Series - Season 5, Episode 6
 In this competition, the goal was to predict the correct **fertilizer name** given a set of soil and crop characteristics.
 
 I participated in this challenge to enhance my skills in feature engineering, model evaluation, and hyperparameter optimization.  
-My final submission achieved a **MAP@3 score of `0.XXXX`** on the private leaderboard.
+My final submission achieved a **MAP@3 score of `0.34636`** on the private leaderboard.
 
 ## 🔍 Problem Overview
 
@@ -108,7 +108,7 @@ To run this project on your local machine, follow these steps:
     conda activate predicting_fertilizers_env
     ```
 4. **Download the Dataset**:
-    Download the `train.csv` and `test.csv` files from the Kaggle competition page ([https://www.kaggle.com/competitions/playground-series-s5e5](https://www.kaggle.com/competitions/playground-series-s5e5)). Place these files inside a folder named `dataset/` in your project's root directory.
+    Download the `train.csv` and `test.csv` files from the Kaggle competition page **[Kaggle Playground Series - Season 5, Episode 6](https://www.kaggle.com/competitions/playground-series-s5e6/overview)**. Place these files inside a folder named `dataset/` in your project's root directory.
     ```
     .
     ├── main.py
